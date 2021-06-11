@@ -5,6 +5,7 @@ public class test1 {
         BigDecimal test = test();
         System.out.println("------------------------");
         System.out.println(test);
+        System.out.println("1549234896523");
     }
     public static BigDecimal test(){
         BigDecimal a = new BigDecimal("0");
@@ -16,4 +17,5 @@ public class test1 {
         System.out.println(a);
         return a;
     }
+
 }
